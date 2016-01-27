@@ -18,6 +18,12 @@ import org.mockito.stubbing.Answer;
 import com.test.mockito.FacturaDao;
 import com.test.mockito.impl.FacturaControllerImpl;
 
+
+/**
+ * Clase generada el día 26/01/2016 para el uso de Mockito
+ * @author emiliosmoreno
+ *
+ */
 @RunWith(MockitoJUnitRunner.class)
 public class FacturaControllerTest {
 
